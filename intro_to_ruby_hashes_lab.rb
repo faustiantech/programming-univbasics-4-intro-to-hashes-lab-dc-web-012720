@@ -3,15 +3,15 @@ def new_hash
 end
 
 def my_hash
-  { "hi":"greeting" }
+  { "hi" :"greeting" }
 end
 
 def pioneer
-  {:name: "Grace Hopper" }
+  {:name : "Grace Hopper" }
 end
 
 def id_generator
-  { :id:5 }
+  { :id : 5 }
 end
 
 def my_hash_creator(key, value)
